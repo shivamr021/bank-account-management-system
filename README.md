@@ -92,4 +92,3 @@ This project is licensed under the MIT License.
 
 ## Author
 [Shivam Rathod](https://github.com/shivamr021)
-```
