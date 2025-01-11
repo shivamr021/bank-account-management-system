@@ -88,7 +88,7 @@ Balance after deposit: 1500
 - C++ compiler
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 [Shivam Rathod](https://github.com/shivamr021)
